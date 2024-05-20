@@ -9,7 +9,7 @@
 ```
 $ go run main.go
 2
-2 1
 1 2
+2 1
 yes
 ```

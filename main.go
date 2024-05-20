@@ -36,7 +36,6 @@ func main() {
 		}
 	}
 
-	fmt.Println(matrix)
 	if sortable.IsSortable(matrix) {
 		fmt.Println("yes")
 	} else {
